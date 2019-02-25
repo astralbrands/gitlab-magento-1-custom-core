@@ -1,0 +1,30 @@
+{
+    "name": "astral/magento1customcoremods",
+    "description": "Magento custom core modifications build for Astral Brands",
+    "require-dev": {
+
+    },
+    "require": {
+
+    },
+    "authors": [
+        {
+            "name": "Ralph Smith",
+            "email": "rsmith@astralbrands.com"
+        }
+    ],
+    "repositories": [
+        {
+            "packagist": false
+        }, 	
+        {
+            "type": "vcs",
+            "url": "git@git.astralbrands.com:AstralBrands/magento-1-core.git"
+        }, 	
+        {
+            "type": "vcs",
+            "url": "git@git.astralbrands.com:AstralBrands/magento-1-custom.git"
+        }
+    ]
+  }
+}
