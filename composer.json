@@ -19,12 +19,7 @@
         }, 	
         {
             "type": "vcs",
-            "url": "git@git.astralbrands.com:AstralBrands/magento-1-core.git"
-        }, 	
-        {
-            "type": "vcs",
-            "url": "git@git.astralbrands.com:AstralBrands/magento-1-custom.git"
+            "url": "git@git.astralbrands.com:AstralBrands/magento-1-custom-core-modifications.git"
         }
     ]
-  }
 }
