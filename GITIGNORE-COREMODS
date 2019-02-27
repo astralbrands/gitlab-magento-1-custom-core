@@ -1,0 +1,17 @@
+/var/www/vhosts/dev_02272019_coremods/app/code/local/Mage/Catalog/Block/Product/View/Media.php
+/var/www/vhosts/dev_02272019_coremods/app/code/local/Mage/Catalog/Helper/Image.php
+/var/www/vhosts/dev_02272019_coremods/app/code/local/Mage/Catalog/Model/Product/Image.php
+/var/www/vhosts/dev_02272019_coremods/app/code/local/Mage/Core/Helper/Data.php
+/var/www/vhosts/dev_02272019_coremods/app/code/local/Mage/Core/Model/Design/Package.php
+/var/www/vhosts/dev_02272019_coremods/app/code/local/Mage/Directory/Block/Data.php
+/var/www/vhosts/dev_02272019_coremods/app/code/local/Mage/GoogleAnalytics/Block/Ga.php
+/var/www/vhosts/dev_02272019_coremods/app/code/local/Mage/Index/Model/Process.php
+/var/www/vhosts/dev_02272019_coremods/app/code/local/Mage/Index/Model/Resource/Helper/Mysql4.php
+/var/www/vhosts/dev_02272019_coremods/app/code/local/Mage/Page/Block/Html/Footer.php
+/var/www/vhosts/dev_02272019_coremods/app/code/local/Mage/Rule/Model/Condition/Product/Abstract_1702.php
+/var/www/vhosts/dev_02272019_coremods/app/code/local/Mage/Rule/Model/Condition/Product/Abstract_1800.php
+/var/www/vhosts/dev_02272019_coremods/app/code/local/Mage/Rule/Model/Condition/Product/Abstract_1810.php
+/var/www/vhosts/dev_02272019_coremods/app/code/local/Mage/SalesRule/Model/Validator.php
+/var/www/vhosts/dev_02272019_coremods/app/code/local/Mage/Sitemap/Model/Sitemap.php
+/var/www/vhosts/dev_02272019_coremods/composer.json
+/var/www/vhosts/dev_02272019_coremods/GITIGNORE
