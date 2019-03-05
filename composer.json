@@ -5,7 +5,7 @@
 
     },
     "require": {
-
+		"astral/magento1": "^1.14"
     },
     "authors": [
         {
@@ -13,13 +13,10 @@
             "email": "rsmith@astralbrands.com"
         }
     ],
-    "repositories": [
-        {
-            "packagist": false
-        }, 	
+    "repositories": [	
         {
             "type": "vcs",
-            "url": "git@git.astralbrands.com:AstralBrands/magento-1-custom-core-modifications.git"
+            "url": "git@git.astralbrands.com:AstralBrands/magento-1-core.git"
         }
     ]
 }
