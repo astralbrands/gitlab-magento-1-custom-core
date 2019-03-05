@@ -24,8 +24,5 @@
 			"type": "vcs",
 			"url": "git@git.astralbrands.com:AstralBrands/magento-1-custom-core.git"
 		}
-	],
-    "extra": {
-        "magento-root-dir": "magento"
-    }	
+	]
 }
