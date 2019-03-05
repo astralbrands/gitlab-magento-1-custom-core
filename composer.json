@@ -1,22 +1,21 @@
 {
     "name": "astral/magento1customcore",
-    "description": "Magento custom core modifications build for Astral Brands",
-    "require-dev": {
-
-    },
+    "description": "Magento EE custom core modifications",
+    "type": "magento-custom-core",
+    "license": ["OSL-3.0", "AFL-3.0"],
+    "description": "Magento Custom Core EE",
     "require": {
-		"astral/magento1": "^1.14"
+		"astral/magento1": "^1.14",
+        "aydin-hassan/magento-core-composer-installer": "^1.5"
     },
-    "authors": [
-        {
-            "name": "Ralph Smith",
-            "email": "rsmith@astralbrands.com"
-        }
-    ],
-    "repositories": [	
-        {
+	"repositories": [
+		{
+			"type": "vcs",
+			"url": "git@github.com:AydinHassan/magento-community.git"
+		},	
+	    {
             "type": "vcs",
             "url": "git@git.astralbrands.com:AstralBrands/magento-1-core.git"
         }
-    ]
+	]
 }
