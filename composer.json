@@ -2,5 +2,22 @@
     "name": "astral/magento1customcore",
     "type": "magento-core",
     "license": ["OSL-3.0", "AFL-3.0"],
-    "description": "Magento Custom Core EE"
+    "description": "Magento Custom Core EE",
+    "require-dev": {
+
+    },
+    "require": {
+        "aydin-hassan/magento-core-composer-installer": "^1.5",
+        "astral/magento1": "^1.14"
+    },
+	"repositories": [
+		{
+			"type": "vcs",
+			"url": "git@github.com:AydinHassan/magento-community.git"
+		},	
+	    {
+            "type": "vcs",
+            "url": "git@git.astralbrands.com:AstralBrands/magento-1-core.git"
+        }
+	]	
 }
